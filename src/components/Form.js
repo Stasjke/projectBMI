@@ -95,7 +95,7 @@ export class Form extends Component {
       this.$inputHeight.value = ''
       this.$inputWeight.value = ''
       // this.props.onSubmit(Number(this.state.amount)) 
-      // this.state.amount = ''
+      // this.state.amount = '' //
     }
   }
 }
